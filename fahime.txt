@@ -1,7 +1,0 @@
-vless://c8269db0-bb2e-11f0-85ca-ff1d8cc9d73f@5.8.19.28:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Fahime%201%20-%20%40V2RAYNETIR
-
-vless://c96336dc-bb30-11f0-b7cc-63018d8e2092@109.61.18.77:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Fahime%202%20-%20%40V2RAYNETIR
-
-vless://195a14b6-bb32-11f0-8cba-5f79a4b738ab@51.75.74.61:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Fahime%203%20-%20%40V2RAYNETIR
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZhaGltZSA0IC0gQFYyUkFZTkVUSVIiLA0KICAiYWRkIjogIjE5My4yMDEuMTg4LjExMCIsDQogICJwb3J0IjogIjEwMDAwIiwNCiAgImlkIjogIjhkMTQyMzkwLWJiMzQtMTFmMC04YjIxLTAwMTYzYzM2YWQ2NCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZwbmphbnRpdCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
