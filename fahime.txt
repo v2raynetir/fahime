@@ -6,10 +6,5 @@ vless://53f03ec0-c3cf-11f0-a239-fba62329810a@195.20.19.242:10004?encryption=none
 
 vless://5b3e3abe-c3d0-11f0-b628-587296e20740@117.18.125.157:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#%F0%9F%94%B5Fahime%204%20%20%40V2RAYNETIR
 
-trojan://87.251.79.228@87.251.79.228:443?security=tls&type=tcp&headerType=none#%F0%9F%94%A5%20Fahime%205%20-%20%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%20%20%40V2RAYNETIR
-
-trojan://Fahime6sos-vpnjantit.com@193.106.248.90:443?security=tls&type=tcp&headerType=none#%F0%9F%94%A5%20Fahime%206%20-%20%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%20%20%40V2RAYNETIR
-
-trojan://Fahime7sos-vpnjantit.com@78.135.110.35:4443?security=tls&type=tcp&headerType=none#%F0%9F%94%A5%20Fahime%207%20-%20%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%20%20%40V2RAYNETIR
-
+trojan://Fahime7sos-vpnjantit.com@78.135.110.35:4443?security=tls&sni=78.135.110.35&type=tcp&headerType=none#%F0%9F%94%A5%20Fahime%208%20-%20%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%20%20%40V2RAYNETIR
 
